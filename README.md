@@ -1,2 +1,1 @@
-# ht001
-first hackathon
+COG - Chain of Games
